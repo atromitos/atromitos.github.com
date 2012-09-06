@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3S Developer Network
+title: 3SDN - 3S Developer Network
 tagline: Hello everyone!
 ---
 {% include JB/setup %}
