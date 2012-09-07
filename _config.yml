@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 3SDN
+title : 3SDN.NET
 tagline: 3S(GIS GPS RS) Developer Network
 author :
   name : atromitos
@@ -18,7 +18,6 @@ author :
   twitter : username
   feedburner : feedname
 
-# for analytics
 safe: true
 
 # The production_url is only used when full-domain names are needed

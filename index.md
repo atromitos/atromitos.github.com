@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 3SDN - 3S Developer Network
-tagline: Hello everyone!
+title: 3S Developer Network
 ---
 {% include JB/setup %}
 
@@ -20,11 +19,14 @@ atromitos，目前就职于Taobao.com，关注互联网、移动互联网及推�
 ###教程状态
 完结且不在更新。因作者目前不从事ArcGIS相关开发工作，因此可能也无法回复网友在AE开发过程中遇到的疑问，望理解。
 ###教程目录
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
+* [第一讲 桌面GIS应用程序框架的建立](/arcgis/1-build-gis-application-framework)
+* [第二讲 菜单的添加及其实现](/arcgis/2-add-menu) 
+* [第三讲 MapControl与PageLayoutControl同步](/arcgis/3-sync-mapcontrol-pagelayoutcontrol)
+* [第四讲 状态栏信息的添加与实现](/arcgis/4-add-statusbar-msg)
+* [第五讲 鹰眼的实现](/arcgis/5-add-eagle-eye)
+* [第六讲 右键菜单添加与实现](/arcgis/6-add-context-menu)
+* [第七讲 图层符号选择器的实现](/arcgis/7-add-layer-symbol-selector)
+* [第八讲 属性数据表的查询显示](/arcgis/8-query-and-display-property-data-table)
+* [第九讲 图层标注](/arcgis/9-add-layer-label)
+* [《ArcGIS Engine + C# 实例开发教程》后序](/arcgis/10-about-arcgis-engine-develop-toturial)
 
