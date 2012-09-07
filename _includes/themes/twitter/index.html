@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta itemprop="image" content="/images/3sdn_favicon_128.png">
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <title>{{ site.title }} - {{ site.tagline }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
 
@@ -43,9 +43,10 @@
       </div>
     </div>
 
+    <br>
     <div class="container">
 
-      <div class="content">
+      <div class="content circular-corner">
         {{ content }}
       </div>
 

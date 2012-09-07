@@ -1,8 +1,6 @@
 ---
 layout: post
-title: 第一讲 桌面GIS应用程序框架的建立
-tagline: ArcGIS Engine + C# 实例开发教程
-small: 系统教程
+title: ArcGIS Engine + C# 实例开发教程：第一讲 桌面GIS应用程序框架的建立
 category: arcgis
 tags: [GIS, ArcGIS, ArcGIS Engine, AE, C#]
 ---

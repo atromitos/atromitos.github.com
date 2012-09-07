@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 第四讲 状态栏信息的添加与实现
-tagline: ArcGIS Engine + C# 实例开发教程
+title: ArcGIS Engine + C# 实例开发教程：第四讲 状态栏信息的添加与实现
 category: arcgis
 tags: [GIS, ArcGIS, ArcGIS Engine, AE, C#]
 ---

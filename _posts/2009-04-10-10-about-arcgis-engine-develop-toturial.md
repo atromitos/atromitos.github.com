@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 《ArcGIS Engine + C# 实例开发教程》后序
-tagline: ArcGIS Engine + C# 实例开发教程
+title: ArcGIS Engine + C# 实例开发教程：后序
 category: arcgis
 tags: [GIS, ArcGIS, ArcGIS Engine, AE, C#]
 ---

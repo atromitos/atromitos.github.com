@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 第五讲 鹰眼的实现
-tagline: ArcGIS Engine + C# 实例开发教程
+title: ArcGIS Engine + C# 实例开发教程：第五讲 鹰眼的实现
 category: arcgis
 tags: [GIS, ArcGIS, ArcGIS Engine, AE, C#]
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 第八讲 属性数据表的查询显示
-tagline: ArcGIS Engine + C# 实例开发教程
+title: ArcGIS Engine + C# 实例开发教程：第八讲 属性数据表的查询显示
 category: arcgis
 tags: [GIS, ArcGIS, ArcGIS Engine, AE, C#]
 ---

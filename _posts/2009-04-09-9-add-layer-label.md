@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 第九讲 图层标注
-tagline: ArcGIS Engine + C# 实例开发教程
+title: ArcGIS Engine + C# 实例开发教程：第九讲 图层标注
 category: arcgis
 tags: [GIS, ArcGIS, ArcGIS Engine, AE, C#]
 ---
