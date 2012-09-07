@@ -5,5 +5,9 @@
 <div class="row">
   <div class="span12">
     {{ content }}
+    {% if page.comments == true %} 
+    <hr>
+    {% include JB/comments %}
+    {% endif %}
   </div>
 </div>
